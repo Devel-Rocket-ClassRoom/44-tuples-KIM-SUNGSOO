@@ -8,13 +8,13 @@ class CodPrac
     {
         //Prac_1();
         //Prac_2();
-        //Prac_3();
+        Prac_3();
         //Prac_4();
         //Prac_5();
         //Prac_6();
         //Prac_7();
         //Prac_8();   
-        Prac_9();
+        //Prac_9();
     }
 
     static void Prac_1()
